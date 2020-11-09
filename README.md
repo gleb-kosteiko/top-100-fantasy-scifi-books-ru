@@ -18,7 +18,7 @@ Just for fun! Inspired by [this article](http://bespoleznyi.ru/blog/2014-08-05-1
 
 ---
 
-**Copyright © Gleb Kosteiko <gleb.kosteiko@gmail.com>**
+**Copyright © Gleb Kosteiko**
 
 This work is free. You can redistribute it and/or modify it under the
 terms of the Do What The Fuck You Want To Public License, Version 2,
